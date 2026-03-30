@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End projects<br>👯 I’m looking to collaborate with others devs for projects<br>🌱 I’m currently learning MongoDB<br>⚡ I am a husband, father, musician and geek.
+🔭 I’m currently working on Front-End projects<br>👯 I’m looking to collaborate with others devs for projects<br>🌱 I'm still learning with every app<br>⚡ I am a husband, father, musician and geek.
 
 
 ## 🌐 Socials:
